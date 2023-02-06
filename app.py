@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, Docker for Lagos !'
+    return 'Hello, Docker for Lagos Nigeria!'
